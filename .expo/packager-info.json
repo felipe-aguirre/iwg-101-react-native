@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13103,
+  "expoServerNgrokUrl": "https://au-vpu.unfired.myapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.au-vpu.unfired.myapp.exp.direct",
+  "ngrokPid": 59831,
+  "webpackServerPort": null
+}
